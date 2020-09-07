@@ -1,0 +1,24 @@
+header {
+    background-color: #D5D2FA;
+    font: "Mukta";
+    font-weight: 800;
+}
+.title-image {
+    width: 60%;
+}
+
+.h2 {
+    font: "Mukta";
+    font-weight: 800;
+}
+
+.p {
+    font: "Mukta";
+    font-weight: 200;
+}
+
+.main-body {
+    font: "Mukta";
+    font-weight: 300;
+    background-color: #C8EEFA;
+}
