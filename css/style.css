@@ -7,9 +7,15 @@ header {
     width: 60%;
 }
 
-.h2 {
+.title {
     font: "Mukta";
-    font-weight: 800;
+    font-weight: 300;
+}
+h2 {
+    font: "Mukta";
+    
+    margin-top: 20px;
+    padding-top: 20px;
 }
 
 .p {
